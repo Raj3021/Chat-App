@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Charm:wght@400;700&family=Dancing+Script:wght@400..700&family=Outfit:wght@100..900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+* {
+    font-family: 'Outfit', sans-serif;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+
